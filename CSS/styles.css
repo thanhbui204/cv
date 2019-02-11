@@ -1,3 +1,4 @@
+/***************Tag selectors*********************/
 body {
   background-color: #cdffeb;
 }
@@ -19,4 +20,8 @@ h1 {
 
 h3 {
   color: #837dff;
+}
+/************ CLass Selectors ********************/
+.circular {
+  border-radius:  100%;
 }
